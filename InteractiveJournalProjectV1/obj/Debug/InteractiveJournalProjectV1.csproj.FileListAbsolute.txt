@@ -1,0 +1,7 @@
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\bin\Debug\InteractiveJournalProjectV1.exe.config
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\bin\Debug\InteractiveJournalProjectV1.exe
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\bin\Debug\InteractiveJournalProjectV1.pdb
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\obj\Debug\InteractiveJournalProjectV1.csproj.AssemblyReference.cache
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\obj\Debug\InteractiveJournalProjectV1.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\obj\Debug\InteractiveJournalProjectV1.exe
+C:\Users\Austin\source\repos\InteractiveJournalProjectV1\InteractiveJournalProjectV1\obj\Debug\InteractiveJournalProjectV1.pdb
