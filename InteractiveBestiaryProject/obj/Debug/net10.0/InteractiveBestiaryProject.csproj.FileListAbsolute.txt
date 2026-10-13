@@ -1,0 +1,14 @@
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.AssemblyInfoInputs.cache
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.AssemblyInfo.cs
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.csproj.CoreCompileInputs.cache
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\bin\Debug\net10.0\InteractiveBestiaryProject.exe
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\bin\Debug\net10.0\InteractiveBestiaryProject.deps.json
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\bin\Debug\net10.0\InteractiveBestiaryProject.runtimeconfig.json
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\bin\Debug\net10.0\InteractiveBestiaryProject.dll
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\bin\Debug\net10.0\InteractiveBestiaryProject.pdb
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.dll
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\refint\InteractiveBestiaryProject.dll
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.pdb
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\InteractiveBestiaryProject.genruntimeconfig.cache
+C:\Users\PistoccoA\source\repos\InteractiveBestiaryProject\InteractiveBestiaryProject\obj\Debug\net10.0\ref\InteractiveBestiaryProject.dll
