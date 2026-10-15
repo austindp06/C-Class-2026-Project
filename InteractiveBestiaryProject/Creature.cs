@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -34,6 +34,7 @@ namespace InteractiveBestiaryProject
         public abstract string GetDescription();
     }
 
+    // Common and Uncommon creatures: real or prehistoric animals
     public sealed class Beast : Creature
     {
         public Beast(string name, string description, List<Biome> biomes, Rarity rarity)
@@ -47,12 +48,28 @@ namespace InteractiveBestiaryProject
         }
     }
 
-    public sealed class Legendary : Creature
+    // Rare creatures: folklore with a plausible real-world explanation behind it
+    public sealed class Mythic : Creature
     {
-        public Legendary(string name, string description, List<Biome> biomes, Rarity rarity)
-            : base(name, description, biomes, rarity)
+        public Mythic(string name, string description, List<Biome> biomes)
+            : base(name, description, biomes, Rarity.Rare)
         {
         }
+
+        public override string GetDescription()
+        {
+            return $"You catch a glimpse of something, but you aren't entirely sure what it could be...\n{Description}";
+        }
+    }
+
+    // Legendary creatures: one per biome, the true myth of the land
+    public sealed class Legendary : Creature
+    {
+        public Legendary(string name, string description, List<Biome> biomes)
+            : base(name, description, biomes, Rarity.Legendary)
+        {
+        }
+
         public override string GetDescription()
         {
             return $"A legendary creature of myth and legend.\n{Description}";
